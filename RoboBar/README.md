@@ -4,7 +4,6 @@ Compiler: X8C
 
 
 Cory W. Hodge
-Joaquin Garcia
 Robotic Bartender
 
 Chip:    
